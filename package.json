@@ -73,9 +73,5 @@
     "react-dom": "^17.0.2",
     "to-string-loader": "^1.2.0"
   },
-  "packageManager": "yarn@4.5.1",
-  "browserslist": [
-    "defaults and fully supports es6-module",
-    "maintained node versions"
-  ]
+  "packageManager": "yarn@4.5.1"
 }
