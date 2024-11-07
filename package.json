@@ -21,6 +21,14 @@
     "cypress:open": "cypress open --e2e",
     "cypress:run": "cypress run --e2e"
   },
+  "plugins": [
+    {
+      "name": "@netlify/plugin-cypress",
+      "inputs": {
+        "record": true
+      }
+    }
+  ],
   "author": "",
   "license": "MIT",
   "devDependencies": {
