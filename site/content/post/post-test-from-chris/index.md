@@ -5,7 +5,7 @@ description: In a digital-first world, your website often serves as the face of
   your brand. Whether it's a large corporation or a small business, an
   effectively designed website is essential to establish credibility, build user
   trust, and convert visitors into loyal customers.
-image: sb_logo.png
+image: ""
 ---
 In a digital-first world, your website often serves as the face of your brand. Whether it's a large corporation or a small business, an effectively designed website is essential to establish credibility, build user trust, and convert visitors into loyal customers. However, effective web design is much more than aesthetics; it’s about creating an experience that resonates with users and aligns with the brand’s mission. Here’s a closer look at the essential principles of modern web design and how you can create a site that meets the demands of today’s users.
 
